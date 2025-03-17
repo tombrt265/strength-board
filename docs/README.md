@@ -12,6 +12,8 @@
 
 Users need a complete overview of their progress. With everything in one place, they can work on themselves more easily.
 Also, with features like a leaderboard and a calender, they will be motivated to work even harder.
+The target audience are people who workout regularly or want to do so.
+Also people who like to have their life visually layed out in front of them. 
 
 ### How to get started?
 
